@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168105874882",
+    "firebase_url": "https://quiz-system-f0ce2-default-rtdb.firebaseio.com",
+    "project_id": "quiz-system-f0ce2",
+    "storage_bucket": "quiz-system-f0ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168105874882:android:12422cbe9540f0eb1b325b",
+        "android_client_info": {
+          "package_name": "com.yarmadadgar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168105874882-46f7fo1l44m8qosn0qct9de954ff3544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi69lFULFNf_OR8FZKmcvov1cPaIP6G7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168105874882-46f7fo1l44m8qosn0qct9de954ff3544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
